@@ -137,6 +137,7 @@ section{
 .feature_section{
 
     padding: var(--horizontal-padding) var(--horizontal-padding);
+    padding-bottom: var(--horizontal-padding);
 
 }
 
